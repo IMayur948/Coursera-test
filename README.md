@@ -1,4 +1,5 @@
-Coursera-test - Coursera test repository.
+Coursera-test repository.
+
 ## HTML CSS JAVASCRIPT for WEB DEVELOPERS 
 ## My Progress
   ### Module 2 
@@ -8,4 +9,5 @@ Coursera-test - Coursera test repository.
   
   ### Module 3
   [solution](https://imayur948.github.io/Coursera-test/module3solution/index.html)
+  
   [source code](https://github.com/IMayur948/Coursera-test/module3solution)
